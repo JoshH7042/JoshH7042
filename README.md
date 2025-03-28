@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoshHarrison&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=JoshHarrison&label=Profile%20views&color=0e75b6&style=flat&fontSize=14" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&center=true&vCenter=true&width=520&lines=Data+Scientist+%7C+Applied+Statistics;Building+Predictive+Models+%7C+Real-Time+Systems;Exploring+Real-World+Data+%7C+Data+Science+and+Automation;Let's+Create+Something+Innovative!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Data+Scientist+%7C+Applied+Statistics;Building+Predictive+Models+%7C+Real-Time+Systems;Exploring+Real-World+Data+%7C+Data+Science+and+Automation;Let's+Create+Something+Innovative!" alt="Typing SVG" />
 </p>
 
 ---
