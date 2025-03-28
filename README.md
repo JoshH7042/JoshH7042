@@ -26,7 +26,7 @@ I specialize in building **predictive models**, designing **real-time systems**,
 
 ---
 
-### 📊 [Advanced Topics In Statistics Inference and Classification](https://github.com/JoshHarrison/university-projects/tree/main/Advanced-Topics-In-Statistics-Inference-and-Classification)  
+### 📊 [Advanced Topics In Statistics Inference and Classification](https://github.com/JoshH7042/university-projects/blob/main/Advanced%20Topics%20In%20Statistics%20Inference%20and%20Classification/FINAL%20REPORT.pdf)  
 **Description:** *A detailed exploration of statistical inference and classification methods.*  
 **Tools:** R, Statsmodels, Classification Algorithms, Cross-validation
 
