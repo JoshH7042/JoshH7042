@@ -1,45 +1,45 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello,%20I'm%20Josh%20Harrison&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:82bff7,100:4c67d1&height=200&section=header&text=Hello%20World,%20I'm%20Josh%20Harrison&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlign=70" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoshHarrison&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=JoshHarrison&label=Profile%20views&color=007bff&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=520&lines=Data+Scientist+%7C+Applied+Statistics;Building+Predictive+Models+%7C+Real-Time+Systems;Exploring+Real-World+Data+%7C+Data+Science+and+Automation;Let's+Create+Something+Meaningful!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=520&lines=Data+Scientist+%7C+Applied+Statistics;Building+Predictive+Models+%7C+Real-Time+Systems;Exploring+Real-World+Data+%7C+Data+Science+and+Automation;Let's+Create+Something+Innovative!" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Data Scientist** and **Applied Statistician** with a passion for using data to solve **real-world problems**. I have a strong foundation in statistics and data analysis, and my recent work spans **healthcare**, **environmental science**, and **predictive modelling**.
+I’m **Josh Harrison**, a **Data Scientist** and **Applied Statistician** with a strong foundation in statistics and data analysis. I’m passionate about using data to solve **real-world challenges** in diverse fields such as **healthcare**, **environmental science**, and **automation**.
 
-Currently, I focus on building **data-driven systems** that combine predictive modelling, **real-time signal processing**, and **automation**. Whether it's analysing public data or designing efficient algorithms, I love turning complex data into actionable insights.
+I specialize in building **predictive models**, designing **real-time systems**, and conducting advanced **statistical analyses**. My goal is to leverage data for impactful decision-making and contribute to meaningful projects.
 
 ---
 
 ## 🚀 Featured Projects
 
-📌 *Here’s a look at some of the projects I’ve worked on, showcasing my skills in data science, statistical modelling, and automation.*
+📌 *Below are some of my most important projects, highlighting my work in data science, statistical modelling, and automation.*
 
 ---
 
 ### 📊 [Advanced Topics In Statistics Inference and Classification](https://github.com/JoshHarrison/university-projects/tree/main/Advanced-Topics-In-Statistics-Inference-and-Classification)  
-**Description:** *A deep dive into statistical inference and classification methods.*  
+**Description:** *A detailed exploration of statistical inference and classification methods.*  
 **Tools:** R, Statsmodels, Classification Algorithms, Cross-validation
 
 ---
 
 ### 🎧 [Exploring Spotify Data and Musical Attributes on Song Success](https://github.com/JoshHarrison/university-projects/tree/main/Exploring-Spotify-Data-and-Musical-Attributes-on-Song-Success)  
-**Description:** *Predicting song success based on Spotify musical features and data.*  
+**Description:** *Predicting song success based on musical features from Spotify data.*  
 **Tools:** Python, Pandas, Machine Learning, Data Visualization
 
 ---
 
 ### 🕰️ [Data Modelling in Space and Time](https://github.com/JoshHarrison/university-projects/tree/main/Data-Modelling-in-Space-and-Time)  
-**Description:** *Modelling data that incorporates both temporal and spatial relationships.*  
+**Description:** *Modelling data with both spatial and temporal dependencies.*  
 **Tools:** R, Geospatial Data, Temporal Modelling, Spatial Statistics
 
 ---
@@ -51,13 +51,13 @@ Currently, I focus on building **data-driven systems** that combine predictive m
 ---
 
 ### 🧪 [Statistical Modelling of TB Risk Across Brazil](https://github.com/JoshHarrison/university-projects/tree/main/Statistical-Modelling-of-TB-Risk-Across-Brazil)  
-**Description:** *Using statistical modelling to predict TB risk in Brazil.*  
+**Description:** *Using statistical models to predict the risk of tuberculosis in Brazil.*  
 **Tools:** R, Spatial Statistics, Generalized Linear Models (GLM), TB Data
 
 ---
 
 ### ❄️ [Exploring Plankton Health Status in the Arctic](https://github.com/JoshHarrison/university-projects/tree/main/Exploring-Plankton-Health-Status-in-the-Arctic)  
-**Description:** *Using satellite and remote sensing data to monitor plankton health in the Arctic.*  
+**Description:** *Using satellite and remote sensing data to study plankton health in the Arctic.*  
 **Tools:** Python, Remote Sensing, Satellite Data, Environmental Modelling
 
 ---
@@ -81,12 +81,12 @@ Currently, I focus on building **data-driven systems** that combine predictive m
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoshHarrison&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshHarrison&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoshHarrison&show_icons=true&theme=highcontrast" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshHarrison&layout=compact&theme=highcontrast" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshHarrison&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshHarrison&theme=highcontrast" />
 </p>
 
 ---
