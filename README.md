@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:82bff7,100:4c67d1&height=200&section=header&text=Hello%20World,%20I'm%20Josh%20Harrison&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlign=70" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:82bff7,100:4c67d1&height=200&section=header&text=Hello%20World,%20I'm%20Josh%20Harrison&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlign=70" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JoshHarrison&label=Profile%20views&color=007bff&style=flat" alt="Profile views" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=520&lines=Data+Scientist+%7C+Applied+Statistics;Building+Predictive+Models+%7C+Real-Time+Systems;Exploring+Real-World+Data+%7C+Data+Science+and+Automation;Let's+Create+Something+Innovative!" alt="Typing SVG" />
@@ -15,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I’m **Josh Harrison**, a **Data Scientist** and **Applied Statistician** with a strong foundation in statistics and data analysis. I’m passionate about using data to solve **real-world challenges** in diverse fields such as **healthcare**, **environmental science**, and **automation**.
+I'm **Josh Harrison**, a **Data Scientist** and **Applied Statistician** with a strong foundation in statistics and data analysis. I’m passionate about using data to solve **real-world challenges** in diverse fields such as **healthcare**, **environmental science**, and **automation**.
 
 I specialize in building **predictive models**, designing **real-time systems**, and conducting advanced **statistical analyses**. My goal is to leverage data for impactful decision-making and contribute to meaningful projects.
 
