@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Josh%20Harrison&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello,%20I'm%20Josh%20Harrison&fontSize=40&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -7,56 +7,58 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=520&lines=Data+Scientist+%7C+Applied+Statistics;Exploring+Real-World+Data+%7C+Statistical+Modelling;Projects+with+Purpose+%7C+Real-Time+Systems;Let%E2%80%99s+build+something+great." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=520&lines=Data+Scientist+%7C+Applied+Statistics;Building+Predictive+Models+%7C+Real-Time+Systems;Exploring+Real-World+Data+%7C+Data+Science+and+Automation;Let's+Create+Something+Meaningful!" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a data science postgrad with a strong stats foundation with practical experience across academic domains. Most of my recent work has involved modelling and analysing public data in projects ranging from health to environmental impact — giving me a broad toolkit and the ability to get up to speed quickly, whatever the problem.
+I'm a **Data Scientist** and **Applied Statistician** with a passion for using data to solve **real-world problems**. I have a strong foundation in statistics and data analysis, and my recent work spans **healthcare**, **environmental science**, and **predictive modelling**.
+
+Currently, I focus on building **data-driven systems** that combine predictive modelling, **real-time signal processing**, and **automation**. Whether it's analysing public data or designing efficient algorithms, I love turning complex data into actionable insights.
 
 ---
 
 ## 🚀 Featured Projects
 
-📌 *A selection of my most technical and meaningful work — blending data science, modelling, and automation.*
+📌 *Here’s a look at some of the projects I’ve worked on, showcasing my skills in data science, statistical modelling, and automation.*
 
 ---
 
 ### 📊 [Advanced Topics In Statistics Inference and Classification](https://github.com/JoshHarrison/university-projects/tree/main/Advanced-Topics-In-Statistics-Inference-and-Classification)  
-*Description coming soon*  
+**Description:** *A deep dive into statistical inference and classification methods.*  
 **Tools:** R, Statsmodels, Classification Algorithms, Cross-validation
 
 ---
 
 ### 🎧 [Exploring Spotify Data and Musical Attributes on Song Success](https://github.com/JoshHarrison/university-projects/tree/main/Exploring-Spotify-Data-and-Musical-Attributes-on-Song-Success)  
-*Description coming soon*  
+**Description:** *Predicting song success based on Spotify musical features and data.*  
 **Tools:** Python, Pandas, Machine Learning, Data Visualization
 
 ---
 
 ### 🕰️ [Data Modelling in Space and Time](https://github.com/JoshHarrison/university-projects/tree/main/Data-Modelling-in-Space-and-Time)  
-*Description coming soon*  
+**Description:** *Modelling data that incorporates both temporal and spatial relationships.*  
 **Tools:** R, Geospatial Data, Temporal Modelling, Spatial Statistics
 
 ---
 
 ### 🦠 [Comparative Modelling of AIDS Trends using Gaussian and Poisson Regression](https://github.com/JoshHarrison/university-projects/tree/main/Comparative-Modelling-of-AIDS-Trends-using-Gaussian-and-Poisson-Regression)  
-*Description coming soon*  
+**Description:** *Comparing statistical models to predict trends in AIDS cases.*  
 **Tools:** R, Poisson Regression, Gaussian Models, Statistical Inference
 
 ---
 
 ### 🧪 [Statistical Modelling of TB Risk Across Brazil](https://github.com/JoshHarrison/university-projects/tree/main/Statistical-Modelling-of-TB-Risk-Across-Brazil)  
-*Description coming soon*  
+**Description:** *Using statistical modelling to predict TB risk in Brazil.*  
 **Tools:** R, Spatial Statistics, Generalized Linear Models (GLM), TB Data
 
 ---
 
 ### ❄️ [Exploring Plankton Health Status in the Arctic](https://github.com/JoshHarrison/university-projects/tree/main/Exploring-Plankton-Health-Status-in-the-Arctic)  
-*Description coming soon*  
-**Tools:** Python, Remote Sensing, Satellite Data, Environmental Analysis
+**Description:** *Using satellite and remote sensing data to monitor plankton health in the Arctic.*  
+**Tools:** Python, Remote Sensing, Satellite Data, Environmental Modelling
 
 ---
 
@@ -100,4 +102,6 @@ I'm a data science postgrad with a strong stats foundation with practical experi
 
 ## 🧠 Currently Exploring
 
-
+- **Reinforcement Learning** for **portfolio optimization** in trading.
+- **Deep Learning** and **neural networks** for advanced prediction tasks.
+- **Data Engineering** to build scalable **data pipelines** and infrastructures.
