@@ -32,9 +32,9 @@ I specialize in building **predictive models**, designing **real-time systems**,
 
 ---
 
-### 🎧 [Exploring Spotify Data - The Effect Musical Attributes have on Song Success](https://github.com/JoshH7042/university-projects/blob/main/Exploring%20Spotify%20Data%20and%20Musical%20Attributes%20on%20Song%20Success/FINAL%20PROJECT%20PDF.pdf) 
-**Description:** *Predicting song success based on musical features from Spotify data.*  
-**Tools:** Python, Pandas, Machine Learning, Data Visualization
+### 🦠 [Comparative Modelling of AIDS Trends using Gaussian and Poisson Regression](https://github.com/JoshH7042/university-projects/blob/main/Comparative%20Modelling%20of%20AIDS%20Trends%20using%20Gaussian%20and%20Poisson%20Regression/Statistical-Modelling_Individual-Assessment.pdf)  
+**Description:** *Comparing statistical models to predict trends in AIDS cases.*  
+**Tools:** R, Poisson Regression, Gaussian Models, Statistical Inference
 
 ---
 
@@ -44,9 +44,9 @@ I specialize in building **predictive models**, designing **real-time systems**,
 
 ---
 
-### 🦠 [Comparative Modelling of AIDS Trends using Gaussian and Poisson Regression](https://github.com/JoshHarrison/university-projects/tree/main/Comparative-Modelling-of-AIDS-Trends-using-Gaussian-and-Poisson-Regression)  
-**Description:** *Comparing statistical models to predict trends in AIDS cases.*  
-**Tools:** R, Poisson Regression, Gaussian Models, Statistical Inference
+### 🎧 [Exploring Spotify Data - The Effect Musical Attributes have on Song Success](https://github.com/JoshH7042/university-projects/blob/main/Exploring%20Spotify%20Data%20and%20Musical%20Attributes%20on%20Song%20Success/FINAL%20PROJECT%20PDF.pdf) 
+**Description:** *Predicting song success based on musical features from Spotify data.*  
+**Tools:** Python, Pandas, Machine Learning, Data Visualization
 
 ---
 
