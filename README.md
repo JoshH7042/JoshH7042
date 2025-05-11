@@ -77,26 +77,12 @@ I specialize in building **predictive models**, designing **real-time systems**,
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoshHarrison&show_icons=true&theme=highcontrast" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshHarrison&layout=compact&theme=highcontrast" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshHarrison&theme=highcontrast" />
-</p>
-
 ---
 
 ## 🌍 Let’s Connect
 
 <p align="center">
-  <a href="mailto:josh.harrison@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:joshh7042@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/josh-harrison/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
@@ -104,6 +90,3 @@ I specialize in building **predictive models**, designing **real-time systems**,
 
 ## 🧠 Currently Exploring
 
-- **Reinforcement Learning** for **portfolio optimization** in trading.
-- **Deep Learning** and **neural networks** for advanced prediction tasks.
-- **Data Engineering** to build scalable **data pipelines** and infrastructures.
