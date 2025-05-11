@@ -38,7 +38,7 @@ I specialize in building **predictive models**, designing **real-time systems**,
 
 ---
 
-### 🕰️ [Data Modelling in Space and Time](https://github.com/JoshHarrison/university-projects/tree/main/Data-Modelling-in-Space-and-Time)  
+### 🕰️ [Data Modelling in Space and Time](https://github.com/JoshH7042/university-projects/blob/main/Data%20Modelling%20in%20Space%20and%20Time/Data-Science-and-Statistical-Modelling-in-Space-and-Time---Coursework.pdf)  
 **Description:** *Modelling data with both spatial and temporal dependencies.*  
 **Tools:** R, Geospatial Data, Temporal Modelling, Spatial Statistics
 
