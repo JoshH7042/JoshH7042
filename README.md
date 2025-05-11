@@ -38,9 +38,21 @@ I specialize in building **predictive models**, designing **real-time systems**,
 
 ---
 
+### 🧪 [Statistical Modelling of TB Risk Across Brazil](https://github.com/JoshHarrison/university-projects/tree/main/Statistical-Modelling-of-TB-Risk-Across-Brazil)  
+**Description:** *Using statistical models to predict the risk of tuberculosis in Brazil.*  
+**Tools:** R, Spatial Statistics, Generalized Linear Models (GLM), TB Data
+
+---
+
 ### 🕰️ [Data Modelling in Space and Time](https://github.com/JoshH7042/university-projects/blob/main/Data%20Modelling%20in%20Space%20and%20Time/Data-Science-and-Statistical-Modelling-in-Space-and-Time---Coursework.pdf)  
 **Description:** *Modelling data with both spatial and temporal dependencies.*  
 **Tools:** R, Geospatial Data, Temporal Modelling, Spatial Statistics
+
+---
+
+### 📉 [Applications of Data Science - Gene Expression, Climate Trends, and Power Usage Patterns](https://github.com/JoshHarrison/university-projects/tree/main/Applications-of-Data-Science)  
+**Description:** *Applying machine learning to cancer classification, sea level trends, and electricity demand patterns.*  
+**Tools:** R, Python, Machine Learning, Time Series Analysis, Cluster Analysis
 
 ---
 
@@ -50,9 +62,9 @@ I specialize in building **predictive models**, designing **real-time systems**,
 
 ---
 
-### 🧪 [Statistical Modelling of TB Risk Across Brazil](https://github.com/JoshHarrison/university-projects/tree/main/Statistical-Modelling-of-TB-Risk-Across-Brazil)  
-**Description:** *Using statistical models to predict the risk of tuberculosis in Brazil.*  
-**Tools:** R, Spatial Statistics, Generalized Linear Models (GLM), TB Data
+### 🔐 [Exploring Big Data - Ethical Reflections and Frameworks in the Age of Datafication](https://github.com/JoshHarrison/university-projects/tree/main/Exploring-Big-Data---Ethical-Reflections)  
+**Description:** *A critical ethical analysis of Big Data through a personal reflection and the Uber breach case.*  
+**Tools:** Literature Review, Critical Analysis, Ethical Frameworks
 
 ---
 
