@@ -22,7 +22,7 @@ I specialize in building **predictive models**, designing **real-time systems**,
 
 ## 🚀 Featured Projects
 
-📌 *Below are some of my most important projects, highlighting my work in data science, statistical modelling, and automation.*
+📌 *Below are some of my most important projects, highlighting my work in data science, statistical modelling, and visualisation.*
 
 ---
 
