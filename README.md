@@ -32,7 +32,7 @@ I specialize in building **predictive models**, designing **real-time systems**,
 
 ---
 
-### 🎧 [Exploring Spotify Data and Musical Attributes on Song Success](Exploring Spotify Data and Musical Attributes on Song Success/Working with Data - Final Project.pdf)  
+### 🎧 [Exploring Spotify Data and Musical Attributes on Song Success]([Exploring Spotify Data and Musical Attributes on Song Success/Working with Data - Final Project.pdf](https://github.com/JoshH7042/university-projects/blob/main/Exploring%20Spotify%20Data%20and%20Musical%20Attributes%20on%20Song%20Success/FINAL%20PROJECT%20PDF.pdf))  
 **Description:** *Predicting song success based on musical features from Spotify data.*  
 **Tools:** Python, Pandas, Machine Learning, Data Visualization
 
