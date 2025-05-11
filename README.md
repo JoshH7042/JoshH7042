@@ -114,5 +114,5 @@ I specialize in building **predictive models**, designing **real-time systems**,
 
 ## 🧠 Currently Exploring
 
-- Spatial Analysis of the effect waste incinerators have on air pollution in surrounding areas
-- Medical Review of the effect stress and mental health has on competitive esports
+- Spatial analysis of the effect waste ncinerators have on air pollution in surrounding areas
+- Medical review of the effect stress and mental health has on competitive esports
